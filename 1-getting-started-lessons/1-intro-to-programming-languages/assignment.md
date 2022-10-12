@@ -8,5 +8,5 @@ There are many tools that a web developer may need that are on the [MDN document
 
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
-|Explained why web developer would use tool | Explained how, but not why developer would use tool
-Sass is the most mature, stable, and powerful professional grade css extension language in the world	| When you install Sass on the command line, you'll be able to run the sass executable to compile .sass and .scss files to .css files. For example:sass source/stylesheets/index.scss build/stylesheets/index.css First install Sass using one of the options below, then run sass --version to be sure it installed correctly. If it did, this will include 1.55.0. You can also run sass --help for more information about the command-line interface.| Did not mention how or why a developer would use tool  |
+|Explained why web developer would use tool | Explained how, but not why developer would use tool | Did not mention how or why a developer would use tool |
+Sass is the most mature, stable, and powerful professional grade css extension language in the world	| When you install Sass on the command line, you'll be able to run the sass executable to compile .sass and .scss files to .css files. For example:sass source/stylesheets/index.scss build/stylesheets/index.css First install Sass using one of the options below, then run sass --version to be sure it installed correctly. If it did, this will include 1.55.0. You can also run sass --help for more information about the command-line interface.|   |
